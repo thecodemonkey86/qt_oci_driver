@@ -1,5 +1,5 @@
 ## Qt Oracle database driver (QOCI)
-Resolve "Driver not loaded" runtime error. Download pre-built Qt SQL driver dlls for Oracle database from [Releases](https://github.com/thecodemonkey86/qt_oci_driver/releases)
+Resolve "Driver not loaded" runtime error. Download pre-built Qt OCI SQL driver dlls for Oracle database from [Releases](https://github.com/thecodemonkey86/qt_oci_driver/releases)
 
 
 ### Deployment
