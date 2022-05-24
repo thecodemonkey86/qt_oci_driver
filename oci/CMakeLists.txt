@@ -32,5 +32,3 @@ qt_internal_extend_target(QOCIDriverPlugin CONDITION APPLE
 )
 
 qt_internal_force_macos_intel_arch(QOCIDriverPlugin)
-
-STRING (REGEX REPLACE "/RTC(su|[1su])" "" CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}")
